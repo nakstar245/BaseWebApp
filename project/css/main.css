@@ -6,6 +6,10 @@ body {
   font-size: 22px;
 }
 
+li {
+  text-align: center;
+}
+
 h1 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
